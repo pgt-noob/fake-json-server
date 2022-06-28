@@ -14,7 +14,7 @@
       },
       { "id": 4, 
         "title" : "LOFI CHILL",
-        "srcImg" : "/assets/images/lofi chill.gif"
+        "srcImg" : "./assets/images/lofi chill.gif"
       },
       { "id": 5, 
         "title" : "mellow and soft chinese songs relax study chill cpop playlist",
